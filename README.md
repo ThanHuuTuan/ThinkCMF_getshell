@@ -47,6 +47,6 @@ www:x:1000:1000::/home/www:/sbin/nologin
 mysql:x:1001:1001::/home/mysql:/sbin/nologin
 
 ```
-## 修复方法
+## Repair method
 将 
 `HomebaseController.class.php` 和 `AdminbaseController.class.php` 类中 `display` 和 `fetch` 函数的修饰符改为 `protected`
