@@ -1,6 +1,6 @@
-# ThinkCMF_getshell 框架上的任意内容包含漏洞
+# ThinkCMF_getshell Any content on the framework contains vulnerabilities
 
-远程攻击者在无需任何权限情况下，通过构造特定的请求包即可在远程服务器上执行任意代码。
+A remote attacker can execute arbitrary code on a remote server by constructing a specific request packet without any permission.
 
 ![](./fofa.jpg)
 ![](./ThinkCMF_getshell.jpg)
